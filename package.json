@@ -2,6 +2,7 @@
   "name": "mern-shopping",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://viennaborowska.github.io/Redux-Store/",
   "engines": {
     "npm": "7.x"
   },
@@ -18,5 +19,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
