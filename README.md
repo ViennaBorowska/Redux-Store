@@ -42,15 +42,18 @@ to add the required packages and dependencies.
 
 ## Usage
 
-Once complete, run
-`npm start`
-to create the webpack bundle "dist" folder. This will also initiate the IndexedDB browser API and launch the application.
+Once installation is complete, run
+`npm run build`
+to create the optimzed production build.
+Then run `npm start` to launch the app.
+
+To run the app in development mode, run
+`npm run develop`.
+This command automatically starts the server and launches the app.
 
 <img src="./assets/jate1.JPG">
 
-You are then able to write and edit text in the editor. If you close and reopen the editor, any work you have is saved and remembered.
-
-There is also a button to install the app to be used offline. It will be downloaded and saved to yout desktop. Work is still saved and remembered.
+You are then able to log in or sign up to the Shop-Shop. Users can view, add and remove items from the card, and checkout using Stripe.
 
 ## License
 
@@ -58,7 +61,7 @@ This project is licensed under MIT
 
 ## Contributing
 
-Contributions and improvements are always welcome. Please make your own branch and commit any changes for review. Do not push changes to the main branch.
+Contributions and improvements are always welcome. Please clone/fork the repo. Any suggestions or feedback, please do get in touch.
 
 ## Questions
 
