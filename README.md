@@ -18,6 +18,8 @@ https://github.com/ViennaBorowska/Redux-Store
 
 This application has also been deployed to Heroku [here](https://safe-everglades-38405.herokuapp.com/)
 
+<img src="./assets/shop-shop.jpg">
+
 ## FILES
 
 - client > all source files, service worker js and application pages
@@ -50,8 +52,6 @@ Then run `npm start` to launch the app.
 To run the app in development mode, run
 `npm run develop`.
 This command automatically starts the server and launches the app.
-
-<img src="./assets/jate1.JPG">
 
 You are then able to log in or sign up to the Shop-Shop. Users can view, add and remove items from the card, and checkout using Stripe.
 
