@@ -16,7 +16,7 @@ https://github.com/ViennaBorowska/Redux-Store
 
 ## DEPLOYED APP
 
-This application has also been deployed to Heroku [here](https://safe-bayou-40613.herokuapp.com/) (NOT YET WORKING)
+This application has also been deployed to Heroku [here](https://safe-bayou-40613.herokuapp.com/)
 
 <img src="./assets/shop-shop.jpg">
 
